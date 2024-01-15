@@ -34,8 +34,8 @@
     "qmk": {
         "tap_keycode_delay": 10
     },
-    "processor": "atmega32u4",
-    "bootloader": "caterina",
+    "processor": "RP2040",
+    "bootloader": "rp2040",
     "layouts": {
         "LAYOUT": {
             "layout": [

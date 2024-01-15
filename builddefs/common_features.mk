@@ -12,7 +12,7 @@
 #
 # You should have received a copy of the GNU General Public License
 # along with this program.  If not, see <http://www.gnu.org/licenses/>.
-
+RP2040_BOOTLOADER_DOUBLE_TAP_RESET = true
 QUANTUM_SRC += \
     $(QUANTUM_DIR)/quantum.c \
     $(QUANTUM_DIR)/bitwise.c \
